@@ -8,3 +8,5 @@ class Calculator:
         else:
             return self.factorial(n - 1) * n
 
+    def multiply(self, x, y):
+        return x * y
