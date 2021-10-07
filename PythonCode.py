@@ -6,6 +6,7 @@ def main():
     print(Cal.add(2, 3))
     print(Cal.add(7, 3))
     print(Cal.multiply(5, 3))
+    print(Cal.multiply(10, 12))
 
 
 if __name__ == "__main__":
