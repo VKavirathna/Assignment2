@@ -2,8 +2,8 @@ class Calculator:
     def add(self, x, y):
         return x + y
     
-    def subtract(self, x, y):
-        return x-y
+    def substract(self, x, y):
+        return x - y
     
     def factorial(self, n):
         if (n == 0):
