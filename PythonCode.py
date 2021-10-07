@@ -7,5 +7,6 @@ def main():
     print(Cal.add(7, 3))
     print(Cal.multiply(5, 3))
 
+
 if __name__ == "__main__":
     main()
