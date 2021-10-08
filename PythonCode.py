@@ -9,6 +9,7 @@ def main():
     print(Cal.substract(10,2))
     print(Cal.multiply(10, 12))
     print(Cal.divide(20,2))
+    print(Cal.factorial(5))
 
 
 if __name__ == "__main__":
