@@ -8,6 +8,7 @@ def main():
     print(Cal.multiply(5, 3))
     print(Cal.substract(10,2))
     print(Cal.multiply(10, 12))
+    print(Cal.divide(20,2))
 
 
 if __name__ == "__main__":
