@@ -6,7 +6,7 @@ def main():
     print(Cal.add(2, 3))
     print(Cal.add(7, 3))
     print(Cal.multiply(5, 3))
-    print(cal.substract(10,2))
+    print(Cal.substract(10,2))
     print(Cal.multiply(10, 12))
 
 
